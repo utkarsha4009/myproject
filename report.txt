@@ -6,3 +6,5 @@ Power BI Project
 - Created insightful visualizations (bar charts, line graphs, pie charts) to analyze customer spending behavior.
 - Implemented DAX measures to calculate KPIs like average transaction value, total spend per customer, and
 spending patterns over time.
+
+regards utkarsha
