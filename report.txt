@@ -1,0 +1,8 @@
+Power BI Project
+
+- Credit Card Transaction Analysis (Sept 2024 - Oct 2024)
+- Developed an interactive dashboard in Power BI utilizing 10,000+ rows of credit card transaction data.
+- Performed data cleaning and transformation using Power Query to ensure accuracy.
+- Created insightful visualizations (bar charts, line graphs, pie charts) to analyze customer spending behavior.
+- Implemented DAX measures to calculate KPIs like average transaction value, total spend per customer, and
+spending patterns over time.
