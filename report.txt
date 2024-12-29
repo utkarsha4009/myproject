@@ -7,4 +7,4 @@ Power BI Project
 - Implemented DAX measures to calculate KPIs like average transaction value, total spend per customer, and
 spending patterns over time.
 
-regards utkarsha patil
+regards utkarsha jagannath patil
